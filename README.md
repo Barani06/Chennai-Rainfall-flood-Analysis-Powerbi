@@ -9,7 +9,7 @@ The analysis focuses on understanding how rainfall varies across months and year
 ## Dashboard Preview
 ![WhatsApp Image 2026-03-08 at 19 29 40](https://github.com/user-attachments/assets/901a5ba9-3077-4624-bcfd-1288ef59f202)
 
-![Dashboard Preview](dashboard-preview.png)
+
 
 ## Key Features
 
